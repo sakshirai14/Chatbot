@@ -20,7 +20,7 @@ const ChatBot = () => {
 
   // this code is for gemini ai
   const ai = new GoogleGenAI({
-    apiKey: "AIzaSyBdTxoCOu2KI4EsTi5XHlVdL-AAi_rlu8o",
+    apiKey: "AIzaSyBdTxoCOu2K5XHlVdL-AAi_rlu8o",
   });
 
   const excludeChatbotLinks = [
